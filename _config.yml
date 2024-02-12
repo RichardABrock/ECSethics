@@ -6,3 +6,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+      menu:
+      - text: REMAS guide
+        href: REMAS-guide.html
